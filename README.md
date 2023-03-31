@@ -1,3 +1,5 @@
+# MineSweeper Game
+
 ## Introduction
 
 MineSweeper is a classic puzzle game where you have to uncover all the non-mine locations without detonating any mines. This game involves a 2D minefield that contains hidden mines in random locations. The player has to uncover locations and guess mine locations until they uncover all the non-mine locations or detonate a mine.
